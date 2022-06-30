@@ -1,0 +1,15 @@
+{
+  "repository_url": "https://github.com/liwang2017/hello-containers-20220630.git",
+  "artifact": "au.icr.io/lily_kube_namespace/hello-containers-20220630",
+  "build_number": 1,
+  "commit_sha": "3f409a23cb4946ac6781c9de89631db3b9bd486d",
+  "name": "hello-containers-20220630",
+  "pipeline_run_id": "21e189f2-c190-413d-9364-e99c313ef829",
+  "version": "v1",
+  "signature": "sha256:0173ba729fdd28944eac09681da59f0e84ad600cad016d5b01b79ec29d6ec495",
+  "REGISTRY_URL": "au.icr.io",
+  "REGISTRY_NAMESPACE": "lily_kube_namespace",
+  "IMAGE_NAME": "hello-containers-20220630",
+  "IMAGE_TAGS": "1-main-3f409a23-20220630003844",
+  "IMAGE_MANIFEST_SHA": "sha256:0173ba729fdd28944eac09681da59f0e84ad600cad016d5b01b79ec29d6ec495"
+}
