@@ -14,9 +14,7 @@ spec:
     spec:
       containers:
       - name: hello-app
-        image: au.icr.io/lily_kube_namespace/hello-containers-tekton:master-0-bd5abef6-20220701021531
-        # for local development against minikube registry
-        #imagePullPolicy: Never
+        image: au.icr.io/lily_kube_namespace/hello-containers-tekton:12-master-8c4451d4-20220701045341
         ports:
         - containerPort: 8080
 ---
