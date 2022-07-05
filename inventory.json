@@ -1,15 +1,15 @@
 {
   "repository_url": "https://github.com/liwang2017/hello-tekton",
-  "artifact": "au.icr.io/lily_kube_namespace/hello-containers-tekton",
-  "build_number": 15,
+  "artifact": "au.icr.io/lily_kube_namespace/hello-tekton",
+  "build_number": 2,
   "commit_sha": "e93e4bc262d212f29227f8084d71b4f42579c736",
   "name": "hello-tekton",
-  "pipeline_run_id": "44c0a01c-f9b0-44ca-894f-bfe4729e5995",
+  "pipeline_run_id": "e3e78f3f-a63f-40a3-8778-bfa40138815a",
   "version": "v1",
-  "signature": "sha256:a78fb5566c4e948b065360ca83709094e7a43a40ace39a9579dc1bc12efed117",
+  "signature": "sha256:456e798183043c8906f06e0e9ed1e7eccda3ede33c1397f1b56584864d82a82b",
   "REGISTRY_URL": "au.icr.io",
   "REGISTRY_NAMESPACE": "lily_kube_namespace",
-  "IMAGE_NAME": "hello-containers-tekton",
-  "IMAGE_TAGS": "15-master-e93e4bc2-20220704071212",
-  "IMAGE_MANIFEST_SHA": "sha256:a78fb5566c4e948b065360ca83709094e7a43a40ace39a9579dc1bc12efed117"
+  "IMAGE_NAME": "hello-tekton",
+  "IMAGE_TAGS": "2-master-e93e4bc2-20220705075320",
+  "IMAGE_MANIFEST_SHA": "sha256:456e798183043c8906f06e0e9ed1e7eccda3ede33c1397f1b56584864d82a82b"
 }
