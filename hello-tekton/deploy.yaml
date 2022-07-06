@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: hello-app
-        image: au.icr.io/lily_kube_namespace/hello-tekton:4-master-60eee595-20220706042756
+        image: au.icr.io/lily_kube_namespace/hello-tekton:5-master-e54fa8d2-20220706044644
         ports:
         - containerPort: 8080
 ---
