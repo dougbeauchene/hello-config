@@ -1,15 +1,15 @@
 {
-  "repository_url": "https://github.com/liwang2017/hello-tekton.git",
-  "artifact": "au.icr.io/lily_kube_namespace/hello-tekton",
-  "build_number": 2,
+  "repository_url": "https://github.com/dougbeauchene/hello-tekton",
+  "artifact": "us.icr.io/dougbeau/hello-tekton",
+  "build_number": 3,
   "commit_sha": "40009de35f43b46d396e9e4612a23da95aa1dcf1",
   "name": "hello-tekton",
-  "pipeline_run_id": "819b84fc-43db-4968-a9de-b743544504a3",
+  "pipeline_run_id": "12699246-0e0e-4f0d-ba39-2ded365f69d4",
   "version": "v1",
-  "signature": "sha256:f353d471b3e2a0e7cf358ad7f59566b23708b903ba2d32e6bd60f64fa0366d33",
-  "REGISTRY_URL": "au.icr.io",
-  "REGISTRY_NAMESPACE": "lily_kube_namespace",
+  "signature": "sha256:a041d1c81098c9e5bbe0e96b04b251a7c641d3a3dd0f9cea8fde8015478dfb45",
+  "REGISTRY_URL": "us.icr.io",
+  "REGISTRY_NAMESPACE": "dougbeau",
   "IMAGE_NAME": "hello-tekton",
-  "IMAGE_TAGS": "2-master-40009de3-20221122033817",
-  "IMAGE_MANIFEST_SHA": "sha256:f353d471b3e2a0e7cf358ad7f59566b23708b903ba2d32e6bd60f64fa0366d33"
+  "IMAGE_TAGS": "3-master-40009de3-20230111210023",
+  "IMAGE_MANIFEST_SHA": "sha256:a041d1c81098c9e5bbe0e96b04b251a7c641d3a3dd0f9cea8fde8015478dfb45"
 }
