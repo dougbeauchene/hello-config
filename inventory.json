@@ -1,15 +1,15 @@
 {
   "repository_url": "https://github.com/dougbeauchene/hello-tekton",
   "artifact": "us.icr.io/dougbeau/hello-tekton",
-  "build_number": 5,
+  "build_number": 6,
   "commit_sha": "40009de35f43b46d396e9e4612a23da95aa1dcf1",
   "name": "hello-tekton",
-  "pipeline_run_id": "a3260c22-43cb-4cd7-ae6d-126c6553a40b",
+  "pipeline_run_id": "70cabc44-efaa-4ba7-bf56-a8ba95aea93c",
   "version": "v1",
-  "signature": "sha256:e53b03f05a16314c072f9a97c9435493da60957d5d4738d9072c7d7bd98cab8d",
+  "signature": "sha256:9587493619a369c48e4887fce461037736a574fb313f7e2ff2fd00d8b66a61f6",
   "REGISTRY_URL": "us.icr.io",
   "REGISTRY_NAMESPACE": "dougbeau",
   "IMAGE_NAME": "hello-tekton",
-  "IMAGE_TAGS": "5-master-40009de3-20230112173138",
-  "IMAGE_MANIFEST_SHA": "sha256:e53b03f05a16314c072f9a97c9435493da60957d5d4738d9072c7d7bd98cab8d"
+  "IMAGE_TAGS": "6-master-40009de3-20230112174056",
+  "IMAGE_MANIFEST_SHA": "sha256:9587493619a369c48e4887fce461037736a574fb313f7e2ff2fd00d8b66a61f6"
 }
